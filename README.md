@@ -19,8 +19,13 @@ Evaluation: The highest level of Bloom's Taxonomy involves making judgments or a
 ![image](https://github.com/Biswarup233/Automated-Learning-Outcome-Extraction-System/assets/62114211/f62c8589-e139-4e68-8a91-a8c5ebc80ae9)
 
 Remember--Recognizing , Recalling
+
 Understand --Interpreting Exemplifying Classifying Summarizing Inferring Comparing Explaining
+
 Apply -- Executing Implementing
+
 Analyze -- Differentiating Organizing Attributing
+
 Evaluate -- Checking Critiquing
+
 Create -- Generating Planning Producing
