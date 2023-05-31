@@ -1,1 +1,2 @@
 # Automated-Learning-Outcome-Extraction-System
+Automated Learning Outcome Extraction System using Natural Language Processing (NLP) is a state-of-the-art technology that enables the extraction of relevant learning outcomes from educational texts. Learning outcomes are statements that describe the knowledge, skills, and competencies that learners are expected to acquire upon completion of an educational program. They are important for ensuring that educational programs are effective and meet the needs of learners and employers.
